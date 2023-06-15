@@ -1,0 +1,22 @@
+/* style.css */
+
+.blah, 
+.blahcooler {
+    background-color: lightpink;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.blahcooler {
+    font-size: 24px;
+}
+
+#one {
+    color: blue;
+    font-size: 36px;
+}
+
+#another {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
